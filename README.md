@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lonereaper
 - 👀 I’m an aspiring full stack web developer and i hope to grow my technical skills through my projects
-- 🌱 I’m currently learning web development frameworks advanced programming techniques like design patterns and also systems design 
+- 🌱 I’m currently learning how to improve frontend web development skills 
 
 <!---
 lonereaper/lonereaper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
