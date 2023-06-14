@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lonereaper
+- 👋 Hi
 - 👀 I’m an aspiring full stack web developer and i hope to grow my technical skills through my projects
 - 🌱 I’m currently learning how to improve frontend web development skills 
 
